@@ -9,8 +9,6 @@ export function Header(){
        locale: ptBR,
     });
 
-
-
     return(
         <header className={styles.container}>
 
